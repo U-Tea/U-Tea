@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @U-Tea
 - 👀 I’m interested in ... all kinds of problem solving.
-- 🌱 I’m currently learning ... using GIT
+- 🌱 I’m currently learning ... Coding
 - 💞️ I’m looking to collaborate on ... Everything
 - 📫 How to reach me ... Email: usubedi999@outlook.com, phone: +9779866816210
 
